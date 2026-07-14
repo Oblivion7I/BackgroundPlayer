@@ -1,0 +1,5 @@
+-keep class androidx.media3.common.** { *; }
+-keep class androidx.media3.exoplayer.** { *; }
+-keep class androidx.media3.session.** { *; }
+-keep class dagger.hilt.** { *; }
+-keepattributes *Annotation*,Signature,InnerClasses,EnclosingMethod
